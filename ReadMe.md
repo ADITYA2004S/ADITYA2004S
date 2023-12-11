@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-❤️I am an aspiring coder learning new tools everyday to add some valuable syntax in life .<br>🖥️Full Stack Web Developer bringing websites to LIFE<br>🐍Python Developer creating interactive GUI<br>🧑‍💻Currently learning JavaScript and enhance my DOM knowledge<br>🎯Next Goal is to learn Mobile Application Development using <br>♟️Enthusiastic to play chess and read book
+❤️I am an aspiring coder learning new tools everyday to add some valuable syntax in life .<br>🖥️Full Stack Web Developer bringing websites to LIFE<br>🐍Python Developer creating interactive GUI<br>🧑‍💻Currently learning JavaScript and enhance my DOM knowledge<br>🎯Next Goal is to learn Mobile Application Development using React Native <br>♟️Enthusiastic to play chess and read book
 
 ## 🌐 Socials:
 
