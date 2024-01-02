@@ -12,11 +12,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ADITYA2004S&theme=dark&hide_border=false&include_all_commits=true&count_private=true&count)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ADITYA2004S&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA2004S&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![ADITYA2004S's Stats](https://github-readme-stats.vercel.app/api?username=ADITYA2004S&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/><br/>
+![ADITYA2004S's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADITYA2004S&theme=vue-dark&hide_border=true)<br/><br/>
+![ADITYA2004S's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA2004S&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
